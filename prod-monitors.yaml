@@ -1,0 +1,10 @@
+---
+# sites hosted in aws
+aws:
+  www.adobe.com:
+  www.google.com:
+
+# sites hosted in azure
+azure:
+  www.yahoo.com:
+  www.ndtv.com:

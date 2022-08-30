@@ -1,10 +1,10 @@
 # newrelic-monitor-by-rest-api
 
-#### cleanup all the monitors
-./delete.py
+#### Cleanup all the monitors
+`./delete.py`
 
-#### create simple ping synthetics monitors against the defined prod-monitors.yaml file
-./create.py
+#### Create simple ping synthetics monitors against the defined prod-monitors.yaml file
+`./create.py`
 
 
 ##### To Do:
